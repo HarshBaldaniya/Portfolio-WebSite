@@ -15,7 +15,7 @@ import "./index.css";
 import { DotGrid } from "./DotGrid";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { Link } from "@nextui-org/react";
-import CirclePart from "./CirclePart/index";
+import CirclePart from "./circlePart/index";
 
 export default function Home() {
   const firstText = useRef(null);
